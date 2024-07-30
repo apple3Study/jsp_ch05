@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Error Pageㄹㄹㄹㄹㄹㄹㄹㄹㄹㅇㄹㅇㄹ</title>
+<title>Error Pageㅇㄹㅇㄹ</title>
 </head>
 <body>
 	<h1>공지사항</h1>
