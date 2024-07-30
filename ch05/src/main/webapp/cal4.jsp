@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>연산결과 cal4</h2>
+<h2>연산결과 cal4ㅎㅀㅀ</h2>
 <%
    	    // 1. num1, num2 parameter 받기
 		int num1 = Integer.parseInt(request.getParameter("num1"));
